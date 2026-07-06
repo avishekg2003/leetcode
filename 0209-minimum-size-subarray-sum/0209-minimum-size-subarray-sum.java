@@ -10,17 +10,19 @@ class Solution {
         {
             sum=sum+nums[high];
 
-        }
+        
         while(sum>=target)
         {
             int leng= high-low+1;
             res= Math.min(res,leng);
             sum=sum-nums[low];
             low++;
-
         }
-        high++;
-        return res == Integer.MAX_VALUE ? 0: res;
+             high++;
+        
     }
     
+    return res == Integer .MAX_VALUE ? 0: res;
  }
+}
+
