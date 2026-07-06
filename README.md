@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/avishekg2003/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/avishekg2003/leetcode/tree/master/0771-jewels-and-stones) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/avishekg2003/leetcode/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
