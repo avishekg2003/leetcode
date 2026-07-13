@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/avishekg2003/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avishekg2003/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/avishekg2003/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/avishekg2003/leetcode/tree/master/0075-sort-colors) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/avishekg2003/leetcode/tree/master/0001-two-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/avishekg2003/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/avishekg2003/leetcode/tree/master/0771-jewels-and-stones) |
 ## String
