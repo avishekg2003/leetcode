@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/avishekg2003/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/avishekg2003/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/avishekg2003/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/avishekg2003/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avishekg2003/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avishekg2003/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3151-special-array-i](https://github.com/avishekg2003/leetcode/tree/master/3151-special-array-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avishekg2003/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/avishekg2003/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/avishekg2003/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/avishekg2003/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avishekg2003/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
