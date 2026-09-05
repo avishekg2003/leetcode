@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/avishekg2003/leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/avishekg2003/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/avishekg2003/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/avishekg2003/leetcode/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avishekg2003/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avishekg2003/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/avishekg2003/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/avishekg2003/leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/avishekg2003/leetcode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
@@ -166,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/avishekg2003/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/avishekg2003/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
