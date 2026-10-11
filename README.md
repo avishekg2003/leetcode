@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/avishekg2003/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avishekg2003/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/avishekg2003/leetcode/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/avishekg2003/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avishekg2003/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/avishekg2003/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/avishekg2003/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/avishekg2003/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avishekg2003/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/avishekg2003/leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/avishekg2003/leetcode/tree/master/0739-daily-temperatures) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/avishekg2003/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/avishekg2003/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/avishekg2003/leetcode/tree/master/0394-decode-string) |
 ## Greedy
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/avishekg2003/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/avishekg2003/leetcode/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
