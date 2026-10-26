@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/avishekg2003/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/avishekg2003/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/avishekg2003/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/avishekg2003/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/avishekg2003/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/avishekg2003/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/avishekg2003/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avishekg2003/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/avishekg2003/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/avishekg2003/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/avishekg2003/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/avishekg2003/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/avishekg2003/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/avishekg2003/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/avishekg2003/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/avishekg2003/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/avishekg2003/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/avishekg2003/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/avishekg2003/leetcode/tree/master/0724-find-pivot-index) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/avishekg2003/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/avishekg2003/leetcode/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/avishekg2003/leetcode/tree/master/0410-split-array-largest-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/avishekg2003/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/avishekg2003/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
@@ -215,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/avishekg2003/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avishekg2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/avishekg2003/leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
