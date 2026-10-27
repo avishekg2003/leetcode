@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/avishekg2003/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/avishekg2003/leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/avishekg2003/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0904-fruit-into-baskets](https://github.com/avishekg2003/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/avishekg2003/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avishekg2003/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avishekg2003/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/avishekg2003/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/avishekg2003/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/avishekg2003/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/avishekg2003/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/avishekg2003/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/avishekg2003/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/avishekg2003/leetcode/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/avishekg2003/leetcode/tree/master/0904-fruit-into-baskets) |
 | [3731-find-missing-elements](https://github.com/avishekg2003/leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
