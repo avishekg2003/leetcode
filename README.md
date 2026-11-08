@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/avishekg2003/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/avishekg2003/leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/avishekg2003/leetcode/tree/master/0904-fruit-into-baskets) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/avishekg2003/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/avishekg2003/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3731-find-missing-elements](https://github.com/avishekg2003/leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/avishekg2003/leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/avishekg2003/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avishekg2003/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/avishekg2003/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2409-count-days-spent-together](https://github.com/avishekg2003/leetcode/tree/master/2409-count-days-spent-together) |
 ## Divide and Conquer
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/avishekg2003/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1267-count-servers-that-communicate](https://github.com/avishekg2003/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/avishekg2003/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avishekg2003/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
