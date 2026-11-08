@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avishekg2003/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/avishekg2003/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/avishekg2003/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2288-apply-discount-to-prices](https://github.com/avishekg2003/leetcode/tree/master/2288-apply-discount-to-prices) |
 | [2409-count-days-spent-together](https://github.com/avishekg2003/leetcode/tree/master/2409-count-days-spent-together) |
 ## Divide and Conquer
 |  |
