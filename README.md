@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/avishekg2003/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/avishekg2003/leetcode/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/avishekg2003/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/avishekg2003/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/avishekg2003/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/avishekg2003/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/avishekg2003/leetcode/tree/master/0771-jewels-and-stones) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/avishekg2003/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/avishekg2003/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/avishekg2003/leetcode/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/avishekg2003/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/avishekg2003/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/avishekg2003/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/avishekg2003/leetcode/tree/master/0771-jewels-and-stones) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/avishekg2003/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1267-count-servers-that-communicate](https://github.com/avishekg2003/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avishekg2003/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avishekg2003/leetcode/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/avishekg2003/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
