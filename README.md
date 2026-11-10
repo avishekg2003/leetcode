@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avishekg2003/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3151-special-array-i](https://github.com/avishekg2003/leetcode/tree/master/3151-special-array-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/avishekg2003/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/avishekg2003/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/avishekg2003/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/avishekg2003/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avishekg2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/avishekg2003/leetcode/tree/master/0410-split-array-largest-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/avishekg2003/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/avishekg2003/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
