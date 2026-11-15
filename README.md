@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/avishekg2003/leetcode/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/avishekg2003/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/avishekg2003/leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/avishekg2003/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/avishekg2003/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/avishekg2003/leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/avishekg2003/leetcode/tree/master/0844-backspace-string-compare) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/avishekg2003/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avishekg2003/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/avishekg2003/leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/avishekg2003/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/avishekg2003/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/avishekg2003/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/avishekg2003/leetcode/tree/master/0844-backspace-string-compare) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/avishekg2003/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/avishekg2003/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/avishekg2003/leetcode/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/avishekg2003/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/avishekg2003/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/avishekg2003/leetcode/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/avishekg2003/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/avishekg2003/leetcode/tree/master/0410-split-array-largest-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/avishekg2003/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/avishekg2003/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
