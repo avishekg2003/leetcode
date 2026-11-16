@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/avishekg2003/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avishekg2003/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/avishekg2003/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/avishekg2003/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/avishekg2003/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2288-apply-discount-to-prices](https://github.com/avishekg2003/leetcode/tree/master/2288-apply-discount-to-prices) |
 | [2409-count-days-spent-together](https://github.com/avishekg2003/leetcode/tree/master/2409-count-days-spent-together) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/avishekg2003/leetcode/tree/master/0844-backspace-string-compare) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/avishekg2003/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
