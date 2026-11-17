@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/avishekg2003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/avishekg2003/leetcode/tree/master/0844-backspace-string-compare) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/avishekg2003/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/avishekg2003/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/avishekg2003/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2288-apply-discount-to-prices](https://github.com/avishekg2003/leetcode/tree/master/2288-apply-discount-to-prices) |
 | [2409-count-days-spent-together](https://github.com/avishekg2003/leetcode/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/avishekg2003/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avishekg2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/avishekg2003/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/avishekg2003/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/avishekg2003/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/avishekg2003/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/avishekg2003/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Heap (Priority Queue)
