@@ -234,10 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/avishekg2003/leetcode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/avishekg2003/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/avishekg2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/avishekg2003/leetcode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/avishekg2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1267-count-servers-that-communicate](https://github.com/avishekg2003/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/avishekg2003/leetcode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/avishekg2003/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/avishekg2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -308,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/avishekg2003/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/avishekg2003/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/avishekg2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
