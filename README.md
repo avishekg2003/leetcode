@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avishekg2003/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/avishekg2003/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3151-special-array-i](https://github.com/avishekg2003/leetcode/tree/master/3151-special-array-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/avishekg2003/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/avishekg2003/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/avishekg2003/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/avishekg2003/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/avishekg2003/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/avishekg2003/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/avishekg2003/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/avishekg2003/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/avishekg2003/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3731-find-missing-elements](https://github.com/avishekg2003/leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-apply-discount-to-prices](https://github.com/avishekg2003/leetcode/tree/master/2288-apply-discount-to-prices) |
 | [2409-count-days-spent-together](https://github.com/avishekg2003/leetcode/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/avishekg2003/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/avishekg2003/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,12 +238,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/avishekg2003/leetcode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/avishekg2003/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/avishekg2003/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/avishekg2003/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/avishekg2003/leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/avishekg2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1267-count-servers-that-communicate](https://github.com/avishekg2003/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/avishekg2003/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
